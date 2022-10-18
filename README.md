@@ -1,22 +1,22 @@
+
+- 👋 Hi, I’m Sayan Biswas
+- 👀 I’m interested in Machine Learning, Deep Learning, AI and a bit in Robotics.
+- 🌱 I’m currently learning Language and Text Processing.
+- 🤝 I’m looking to collaborate on any Computer Vision project.
+- 📫 How to reach me [Sayan Biswas](mailto: biswaso235sayan@gmail.com)
+
 <!---
-- 👋 Hi, I’m @sayanbiswas023
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 sayanbiswas023/sayanbiswas023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 <h1 align="center">Hi 👋, I'm Sayan Biswas</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India</h3>
+--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanbiswas023&label=Profile%20views&color=0e75b6&style=flat" alt="sayanbiswas023" /> </p>
 
-<h3 align="left">🤝 I’m looking to collaborate on Deep Learning Projects, especially on COmputer Vision.</h3>
-<h3 align="left">Connect with me: [Sayan Biswas](mailto:biswas0235sayan@gmail.com)</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/sayan-biswas-a697481b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-biswas-a697481b8" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayanbiswas023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayanbiswas023" height="30" width="40" /></a>
