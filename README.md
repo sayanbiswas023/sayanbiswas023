@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, AI and a bit in Robotics.
 - 🌱 I’m currently learning Language and Text Processing.
 - 🤝 I’m looking to collaborate on any Computer Vision project.
-- 📫 How to reach me [Sayan Biswas](mailto: biswaso235sayan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 How to reach me [Sayan Biswas](mailto:biswas0235sayan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!---
 sayanbiswas023/sayanbiswas023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
