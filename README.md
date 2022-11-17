@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Sayan Biswas
-- 👀 I’m interested in Machine Learning, Deep Learning, AI and a bit in Robotics.
+- 👀 I’m interested in Machine Learning, Deep Learning, AI and a bit of Robotics.
 - 🌱 I’m currently learning Language and Text Processing.
 - 🤝 I’m looking to collaborate on any Computer Vision project.
 - 📫 How to reach me [Sayan Biswas](mailto:biswas0235sayan@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
